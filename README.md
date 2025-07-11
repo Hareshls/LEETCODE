@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hareshls/LEETCODE/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/Hareshls/LEETCODE/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Hareshls/LEETCODE/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Hareshls/LEETCODE/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
