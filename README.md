@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Hareshls/LEETCODE/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/Hareshls/LEETCODE/tree/master/0052-n-queens-ii) |
 ## Two Pointers
 |  |
 | ------- |
